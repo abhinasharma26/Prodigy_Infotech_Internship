@@ -1,7 +1,0 @@
-Import libraries
-
-selenium:
-pip import selenium
-
-webdriver_manager:
-pip install webdriver_manager
